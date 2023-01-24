@@ -1,0 +1,32 @@
+.first, .third{
+    background: darkblue;
+    width: 600px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.first{
+    margin-bottom: 30px;
+}
+.third {
+    margin-top: 30px;
+}
+
+.second{
+    display: flex;
+}
+.one,.two,.three{
+    background: darkblue;
+    width: 170px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.one,.two{
+    margin-right: 45px;
+}
+p{
+    color:white;
+}
