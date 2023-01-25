@@ -1,0 +1,45 @@
+.back{
+    width: 500px;
+    height: 400px;
+    background: gray;
+    position: relative;
+}
+.header{
+    display: flex;
+    position: relative;
+}
+.rectangle{
+    width: 50px;
+    height: 20px;
+    background: purple;
+    border-radius: 5px;
+    position: absolute;
+    top: 20px;
+    left: 100px;
+}
+.search{
+    color: purple;
+    position: absolute;
+    top: 20px;
+    right: 100px;
+}
+.center{
+    width: 500px;
+    height: 250px;
+    background: purple;
+    position: absolute;
+    top: 70px;
+}
+.threeblocks{
+    display: flex;
+    position: absolute;
+    bottom: 20px;
+    left: 65px;
+}
+.block{
+    width: 100px;
+    height: 100px;
+    background: rosybrown;
+    border-radius: 5px;
+    margin: 10px;
+}
