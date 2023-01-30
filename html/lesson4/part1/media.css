@@ -1,0 +1,33 @@
+@media screen and (min-width: 993px){
+    .block_a {
+        width: 1200px;
+        height: 300px;
+    }
+    .blocks{
+        display: flex;
+        flex-direction: row;
+    }
+    .block_b{
+        width: 800px;
+        height: 500px;
+    }
+    .block_c{
+        width: 380px;
+        height: 500px;
+    }
+
+}
+@media screen and (min-width: 0) and (max-width: 992px){
+    .block_a {
+        width: 500px;
+        height: 200px;
+    }
+    .block_b{
+        width: 500px;
+        height: 500px;
+    }
+    .block_c{
+        width: 500px;
+        height: 200px;
+    }
+}

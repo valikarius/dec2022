@@ -1,0 +1,7 @@
+.block_a, .block_b, .block_c, .block_d, .block_e, .block_f{
+    background: silver;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
